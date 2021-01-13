@@ -32,7 +32,8 @@ open launcher.exe and write numbers with .
 2)enjot ıt
 
 ----------------------------------------
-
+MADE BY GROOPHY
+İF YOU STEAL MY CODE , I WILL EXERCISE MY LEGAL RIGHTS
 
 why want admınıstrator?
 
