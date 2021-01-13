@@ -9,6 +9,8 @@ examples:
 
 40.70.132.23 Growtopia2.com
 
+----------------------------------------
+
 open launcher.exe and write numbers with .
 
 1)open launcher with ADMİNİSTRATOR
@@ -19,6 +21,9 @@ open launcher.exe and write numbers with .
 
 4)open accont in private server enjoy it
 
+----------------------------------------
+
+
   back real gt
 
 
@@ -26,18 +31,24 @@ open launcher.exe and write numbers with .
 
 2)enjot ıt
 
+----------------------------------------
+
 
 why want admınıstrator?
 
 
 because exe,changing system32 file
 
+----------------------------------------
 
 
 why chaning system32 file?
 
 
 if you want enter private server , you must change
+
+----------------------------------------
+
 
 
 Will it damage my computer?
