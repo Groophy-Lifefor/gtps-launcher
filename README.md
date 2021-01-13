@@ -55,3 +55,6 @@ if you want enter private server , you must change
 Will it damage my computer?
 
 NO !
+
+if you steal my code , I WİLL USE MY LEGAL RIGHTS
+made by Groophy
